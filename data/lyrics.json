@@ -1,0 +1,1212 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "section": "intro",
+   "text": "Any sufficiently advanced technology is indistinguishable from magic.",
+   "start": 4.643,
+   "end": 11.378,
+   "words": [
+    {
+     "w": "Any",
+     "start": 4.643,
+     "end": 4.823,
+     "conf": 1.0
+    },
+    {
+     "w": "sufficiently",
+     "start": 4.964,
+     "end": 5.565,
+     "conf": 1.0
+    },
+    {
+     "w": "advanced",
+     "start": 5.645,
+     "end": 6.146,
+     "conf": 1.0
+    },
+    {
+     "w": "technology",
+     "start": 6.527,
+     "end": 7.169,
+     "conf": 1.0
+    },
+    {
+     "w": "is",
+     "start": 8.832,
+     "end": 8.932,
+     "conf": 1.0
+    },
+    {
+     "w": "indistinguishable",
+     "start": 9.093,
+     "end": 10.015,
+     "conf": 1.0
+    },
+    {
+     "w": "from",
+     "start": 10.716,
+     "end": 10.877,
+     "conf": 1.0
+    },
+    {
+     "w": "magic.",
+     "start": 11.017,
+     "end": 11.378,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "section": "verse1",
+   "text": "It used to take a hundred hands,",
+   "start": 28.142,
+   "end": 31.125,
+   "words": [
+    {
+     "w": "It",
+     "start": 28.142,
+     "end": 28.221999999999998,
+     "conf": 1.0
+    },
+    {
+     "w": "used",
+     "start": 28.202,
+     "end": 28.402,
+     "conf": 1.0
+    },
+    {
+     "w": "to",
+     "start": 28.462,
+     "end": 28.582,
+     "conf": 1.0
+    },
+    {
+     "w": "take",
+     "start": 28.702,
+     "end": 28.983,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 29.063,
+     "end": 29.142999999999997,
+     "conf": 1.0
+    },
+    {
+     "w": "hundred",
+     "start": 29.463,
+     "end": 30.204,
+     "conf": 1.0
+    },
+    {
+     "w": "hands,",
+     "start": 30.425,
+     "end": 31.125,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "section": "verse1",
+   "text": "a tower and a name,",
+   "start": 31.246,
+   "end": 33.629,
+   "words": [
+    {
+     "w": "a",
+     "start": 31.246,
+     "end": 31.325999999999997,
+     "conf": 1.0
+    },
+    {
+     "w": "tower",
+     "start": 31.386,
+     "end": 32.087,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 32.627,
+     "end": 32.868,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 33.028,
+     "end": 33.108,
+     "conf": 1.0
+    },
+    {
+     "w": "name,",
+     "start": 33.148,
+     "end": 33.629,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "section": "verse1",
+   "text": "a year of meetings for a feature,",
+   "start": 34.91,
+   "end": 36.973,
+   "words": [
+    {
+     "w": "a",
+     "start": 34.91,
+     "end": 34.989999999999995,
+     "conf": 1.0
+    },
+    {
+     "w": "year",
+     "start": 35.051,
+     "end": 35.291,
+     "conf": 1.0
+    },
+    {
+     "w": "of",
+     "start": 35.411,
+     "end": 35.491,
+     "conf": 1.0
+    },
+    {
+     "w": "meetings",
+     "start": 35.591,
+     "end": 35.972,
+     "conf": 1.0
+    },
+    {
+     "w": "for",
+     "start": 36.072,
+     "end": 36.232,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 36.332,
+     "end": 36.412,
+     "conf": 1.0
+    },
+    {
+     "w": "feature,",
+     "start": 36.412,
+     "end": 36.973,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "section": "verse1",
+   "text": "while the long tail waited in the rain.",
+   "start": 38.035,
+   "end": 41.379,
+   "words": [
+    {
+     "w": "while",
+     "start": 38.035,
+     "end": 38.235,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 38.295,
+     "end": 38.375,
+     "conf": 1.0
+    },
+    {
+     "w": "long",
+     "start": 38.435,
+     "end": 38.675,
+     "conf": 1.0
+    },
+    {
+     "w": "tail",
+     "start": 38.775,
+     "end": 39.156,
+     "conf": 1.0
+    },
+    {
+     "w": "waited",
+     "start": 39.276,
+     "end": 40.277,
+     "conf": 1.0
+    },
+    {
+     "w": "in",
+     "start": 40.438,
+     "end": 40.518,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 40.738,
+     "end": 40.858,
+     "conf": 1.0
+    },
+    {
+     "w": "rain.",
+     "start": 40.998,
+     "end": 41.379,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "section": "pre1",
+   "text": "Then the cost of making fell,",
+   "start": 42.682,
+   "end": 45.509,
+   "words": [
+    {
+     "w": "Then",
+     "start": 42.682,
+     "end": 42.802,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 42.943,
+     "end": 43.022999999999996,
+     "conf": 1.0
+    },
+    {
+     "w": "cost",
+     "start": 43.123,
+     "end": 43.624,
+     "conf": 1.0
+    },
+    {
+     "w": "of",
+     "start": 43.785,
+     "end": 43.864999999999995,
+     "conf": 1.0
+    },
+    {
+     "w": "making",
+     "start": 44.166,
+     "end": 44.887,
+     "conf": 1.0
+    },
+    {
+     "w": "fell,",
+     "start": 45.128,
+     "end": 45.509,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "section": "pre1",
+   "text": "and Jevons rang the bell.",
+   "start": 46.712,
+   "end": 50.18,
+   "words": [
+    {
+     "w": "and",
+     "start": 46.712,
+     "end": 46.812,
+     "conf": 1.0
+    },
+    {
+     "w": "Jevons",
+     "start": 47.073,
+     "end": 47.955,
+     "conf": 1.0
+    },
+    {
+     "w": "rang",
+     "start": 48.055,
+     "end": 48.456,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 48.576,
+     "end": 48.696,
+     "conf": 1.0
+    },
+    {
+     "w": "bell.",
+     "start": 48.797,
+     "end": 50.18,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "section": "chorus1",
+   "text": "Now everyone's a builder,",
+   "start": 52.003,
+   "end": 53.565,
+   "words": [
+    {
+     "w": "Now",
+     "start": 52.003,
+     "end": 52.123,
+     "conf": 1.0
+    },
+    {
+     "w": "everyone's",
+     "start": 52.343,
+     "end": 52.904,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 53.004,
+     "end": 53.083999999999996,
+     "conf": 1.0
+    },
+    {
+     "w": "builder,",
+     "start": 53.084,
+     "end": 53.565,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "section": "chorus1",
+   "text": "one mind, a thousand hands.",
+   "start": 55.487,
+   "end": 57.63,
+   "words": [
+    {
+     "w": "one",
+     "start": 55.487,
+     "end": 55.628,
+     "conf": 1.0
+    },
+    {
+     "w": "mind,",
+     "start": 55.848,
+     "end": 56.288,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 56.388,
+     "end": 56.467999999999996,
+     "conf": 1.0
+    },
+    {
+     "w": "thousand",
+     "start": 56.569,
+     "end": 56.969,
+     "conf": 1.0
+    },
+    {
+     "w": "hands.",
+     "start": 57.049,
+     "end": 57.63,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "section": "chorus1",
+   "text": "Just say it, and it's standing:",
+   "start": 59.232,
+   "end": 61.795,
+   "words": [
+    {
+     "w": "Just",
+     "start": 59.232,
+     "end": 59.472,
+     "conf": 1.0
+    },
+    {
+     "w": "say",
+     "start": 59.693,
+     "end": 60.193,
+     "conf": 1.0
+    },
+    {
+     "w": "it,",
+     "start": 60.213,
+     "end": 60.313,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 60.494,
+     "end": 60.594,
+     "conf": 1.0
+    },
+    {
+     "w": "it's",
+     "start": 60.654,
+     "end": 60.754,
+     "conf": 1.0
+    },
+    {
+     "w": "standing:",
+     "start": 60.814,
+     "end": 61.795,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "section": "chorus1",
+   "text": "software on demand.",
+   "start": 62.596,
+   "end": 64.258,
+   "words": [
+    {
+     "w": "software",
+     "start": 62.596,
+     "end": 63.397,
+     "conf": 1.0
+    },
+    {
+     "w": "on",
+     "start": 63.778,
+     "end": 63.878,
+     "conf": 1.0
+    },
+    {
+     "w": "demand.",
+     "start": 63.998,
+     "end": 64.258,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "section": "verse2",
+   "text": "Made of weights and attention,",
+   "start": 76.821,
+   "end": 79.585,
+   "words": [
+    {
+     "w": "Made",
+     "start": 76.821,
+     "end": 77.082,
+     "conf": 1.0
+    },
+    {
+     "w": "of",
+     "start": 77.122,
+     "end": 77.202,
+     "conf": 1.0
+    },
+    {
+     "w": "weights",
+     "start": 77.182,
+     "end": 77.502,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 78.644,
+     "end": 78.764,
+     "conf": 1.0
+    },
+    {
+     "w": "attention,",
+     "start": 78.824,
+     "end": 79.585,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "section": "verse2",
+   "text": "trained on tokens through the night.",
+   "start": 79.665,
+   "end": 82.369,
+   "words": [
+    {
+     "w": "trained",
+     "start": 79.665,
+     "end": 79.966,
+     "conf": 1.0
+    },
+    {
+     "w": "on",
+     "start": 80.046,
+     "end": 80.126,
+     "conf": 1.0
+    },
+    {
+     "w": "tokens",
+     "start": 80.186,
+     "end": 80.747,
+     "conf": 1.0
+    },
+    {
+     "w": "through",
+     "start": 80.907,
+     "end": 81.267,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 81.428,
+     "end": 81.508,
+     "conf": 1.0
+    },
+    {
+     "w": "night.",
+     "start": 81.648,
+     "end": 82.369,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "section": "verse2",
+   "text": "Once we trusted the compiler,",
+   "start": 83.33,
+   "end": 85.353,
+   "words": [
+    {
+     "w": "Once",
+     "start": 83.33,
+     "end": 83.511,
+     "conf": 1.0
+    },
+    {
+     "w": "we",
+     "start": 83.551,
+     "end": 83.631,
+     "conf": 1.0
+    },
+    {
+     "w": "trusted",
+     "start": 83.751,
+     "end": 84.412,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 84.532,
+     "end": 84.612,
+     "conf": 1.0
+    },
+    {
+     "w": "compiler,",
+     "start": 84.672,
+     "end": 85.353,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "section": "verse2",
+   "text": "now we trust the words we write.",
+   "start": 86.234,
+   "end": 89.879,
+   "words": [
+    {
+     "w": "now",
+     "start": 86.234,
+     "end": 86.354,
+     "conf": 1.0
+    },
+    {
+     "w": "we",
+     "start": 86.455,
+     "end": 86.535,
+     "conf": 1.0
+    },
+    {
+     "w": "trust",
+     "start": 86.595,
+     "end": 86.935,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 87.156,
+     "end": 87.356,
+     "conf": 1.0
+    },
+    {
+     "w": "words",
+     "start": 87.636,
+     "end": 88.938,
+     "conf": 1.0
+    },
+    {
+     "w": "we",
+     "start": 89.118,
+     "end": 89.499,
+     "conf": 1.0
+    },
+    {
+     "w": "write.",
+     "start": 89.579,
+     "end": 89.879,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "section": "pre2",
+   "text": "Every niche and every dream,",
+   "start": 91.102,
+   "end": 94.572,
+   "words": [
+    {
+     "w": "Every",
+     "start": 91.102,
+     "end": 91.343,
+     "conf": 1.0
+    },
+    {
+     "w": "niche",
+     "start": 91.443,
+     "end": 91.925,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 92.125,
+     "end": 92.246,
+     "conf": 1.0
+    },
+    {
+     "w": "every",
+     "start": 92.687,
+     "end": 93.128,
+     "conf": 1.0
+    },
+    {
+     "w": "dream,",
+     "start": 93.328,
+     "end": 94.572,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "section": "pre2",
+   "text": "now it's worth the machine.",
+   "start": 94.812,
+   "end": 97.059,
+   "words": [
+    {
+     "w": "now",
+     "start": 94.812,
+     "end": 95.033,
+     "conf": 1.0
+    },
+    {
+     "w": "it's",
+     "start": 95.153,
+     "end": 95.234,
+     "conf": 1.0
+    },
+    {
+     "w": "worth",
+     "start": 95.314,
+     "end": 95.815,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 95.855,
+     "end": 96.276,
+     "conf": 1.0
+    },
+    {
+     "w": "machine.",
+     "start": 96.497,
+     "end": 97.059,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "section": "chorus2",
+   "text": "Now everyone's a builder,",
+   "start": 100.063,
+   "end": 101.705,
+   "words": [
+    {
+     "w": "Now",
+     "start": 100.063,
+     "end": 100.223,
+     "conf": 1.0
+    },
+    {
+     "w": "everyone's",
+     "start": 100.444,
+     "end": 101.024,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 101.085,
+     "end": 101.16499999999999,
+     "conf": 1.0
+    },
+    {
+     "w": "builder,",
+     "start": 101.165,
+     "end": 101.705,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "section": "chorus2",
+   "text": "one mind, a thousand hands.",
+   "start": 103.588,
+   "end": 105.731,
+   "words": [
+    {
+     "w": "one",
+     "start": 103.588,
+     "end": 103.708,
+     "conf": 1.0
+    },
+    {
+     "w": "mind,",
+     "start": 103.888,
+     "end": 104.349,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 104.469,
+     "end": 104.54899999999999,
+     "conf": 1.0
+    },
+    {
+     "w": "thousand",
+     "start": 104.609,
+     "end": 104.99,
+     "conf": 1.0
+    },
+    {
+     "w": "hands.",
+     "start": 105.11,
+     "end": 105.731,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "section": "chorus2",
+   "text": "Just say it, and it's standing:",
+   "start": 107.273,
+   "end": 110.216,
+   "words": [
+    {
+     "w": "Just",
+     "start": 107.273,
+     "end": 107.453,
+     "conf": 1.0
+    },
+    {
+     "w": "say",
+     "start": 107.653,
+     "end": 108.174,
+     "conf": 1.0
+    },
+    {
+     "w": "it,",
+     "start": 108.614,
+     "end": 108.694,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 109.195,
+     "end": 109.355,
+     "conf": 1.0
+    },
+    {
+     "w": "it's",
+     "start": 109.636,
+     "end": 109.776,
+     "conf": 1.0
+    },
+    {
+     "w": "standing:",
+     "start": 109.796,
+     "end": 110.216,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "section": "chorus2",
+   "text": "software on demand.",
+   "start": 110.557,
+   "end": 112.76,
+   "words": [
+    {
+     "w": "software",
+     "start": 110.557,
+     "end": 111.298,
+     "conf": 1.0
+    },
+    {
+     "w": "on",
+     "start": 111.738,
+     "end": 111.838,
+     "conf": 1.0
+    },
+    {
+     "w": "demand.",
+     "start": 112.019,
+     "end": 112.76,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "section": "bridge",
+   "text": "No studio, no label,",
+   "start": 131.042,
+   "end": 134.546,
+   "words": [
+    {
+     "w": "No",
+     "start": 131.042,
+     "end": 131.222,
+     "conf": 1.0
+    },
+    {
+     "w": "studio,",
+     "start": 131.423,
+     "end": 132.644,
+     "conf": 1.0
+    },
+    {
+     "w": "no",
+     "start": 132.924,
+     "end": 133.145,
+     "conf": 1.0
+    },
+    {
+     "w": "label,",
+     "start": 133.425,
+     "end": 134.546,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "section": "bridge",
+   "text": "no gate you have to pass.",
+   "start": 134.847,
+   "end": 137.47,
+   "words": [
+    {
+     "w": "no",
+     "start": 134.847,
+     "end": 135.047,
+     "conf": 1.0
+    },
+    {
+     "w": "gate",
+     "start": 135.307,
+     "end": 135.728,
+     "conf": 1.0
+    },
+    {
+     "w": "you",
+     "start": 135.828,
+     "end": 136.028,
+     "conf": 1.0
+    },
+    {
+     "w": "have",
+     "start": 136.268,
+     "end": 136.609,
+     "conf": 1.0
+    },
+    {
+     "w": "to",
+     "start": 136.749,
+     "end": 136.869,
+     "conf": 1.0
+    },
+    {
+     "w": "pass.",
+     "start": 136.989,
+     "end": 137.47,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "section": "bridge",
+   "text": "The artist left the tower,",
+   "start": 138.631,
+   "end": 142.636,
+   "words": [
+    {
+     "w": "The",
+     "start": 138.631,
+     "end": 138.931,
+     "conf": 1.0
+    },
+    {
+     "w": "artist",
+     "start": 139.392,
+     "end": 139.832,
+     "conf": 1.0
+    },
+    {
+     "w": "left",
+     "start": 139.953,
+     "end": 140.333,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 140.533,
+     "end": 140.633,
+     "conf": 1.0
+    },
+    {
+     "w": "tower,",
+     "start": 140.773,
+     "end": 142.636,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "section": "bridge",
+   "text": "the builder breaks the glass.",
+   "start": 142.716,
+   "end": 146.0,
+   "words": [
+    {
+     "w": "the",
+     "start": 142.716,
+     "end": 142.79600000000002,
+     "conf": 1.0
+    },
+    {
+     "w": "builder",
+     "start": 142.956,
+     "end": 143.677,
+     "conf": 1.0
+    },
+    {
+     "w": "breaks",
+     "start": 144.077,
+     "end": 144.438,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 144.578,
+     "end": 144.678,
+     "conf": 1.0
+    },
+    {
+     "w": "glass.",
+     "start": 144.778,
+     "end": 146.0,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "section": "chorus3",
+   "text": "Now everyone's a builder,",
+   "start": 147.642,
+   "end": 149.184,
+   "words": [
+    {
+     "w": "Now",
+     "start": 147.642,
+     "end": 147.802,
+     "conf": 1.0
+    },
+    {
+     "w": "everyone's",
+     "start": 148.002,
+     "end": 148.583,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 148.663,
+     "end": 148.74300000000002,
+     "conf": 1.0
+    },
+    {
+     "w": "builder,",
+     "start": 148.723,
+     "end": 149.184,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "section": "chorus3",
+   "text": "a wizard with a plan.",
+   "start": 151.507,
+   "end": 153.109,
+   "words": [
+    {
+     "w": "a",
+     "start": 151.507,
+     "end": 151.58700000000002,
+     "conf": 1.0
+    },
+    {
+     "w": "wizard",
+     "start": 151.647,
+     "end": 152.128,
+     "conf": 1.0
+    },
+    {
+     "w": "with",
+     "start": 152.148,
+     "end": 152.248,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 152.328,
+     "end": 152.40800000000002,
+     "conf": 1.0
+    },
+    {
+     "w": "plan.",
+     "start": 152.428,
+     "end": 153.109,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "section": "chorus3",
+   "text": "Just say it, and it's standing:",
+   "start": 154.731,
+   "end": 157.695,
+   "words": [
+    {
+     "w": "Just",
+     "start": 154.731,
+     "end": 154.972,
+     "conf": 1.0
+    },
+    {
+     "w": "say",
+     "start": 155.192,
+     "end": 155.653,
+     "conf": 1.0
+    },
+    {
+     "w": "it,",
+     "start": 155.753,
+     "end": 155.833,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 155.973,
+     "end": 156.05300000000003,
+     "conf": 1.0
+    },
+    {
+     "w": "it's",
+     "start": 156.133,
+     "end": 156.233,
+     "conf": 1.0
+    },
+    {
+     "w": "standing:",
+     "start": 156.334,
+     "end": 157.695,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "section": "chorus3",
+   "text": "software on demand.",
+   "start": 158.036,
+   "end": 160.94,
+   "words": [
+    {
+     "w": "software",
+     "start": 158.036,
+     "end": 158.797,
+     "conf": 1.0
+    },
+    {
+     "w": "on",
+     "start": 159.198,
+     "end": 159.298,
+     "conf": 1.0
+    },
+    {
+     "w": "demand.",
+     "start": 159.478,
+     "end": 160.94,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "section": "outro",
+   "text": "Software on demand.",
+   "start": 169.328,
+   "end": 171.597,
+   "words": [
+    {
+     "w": "Software",
+     "start": 169.328,
+     "end": 170.091,
+     "conf": 1.0
+    },
+    {
+     "w": "on",
+     "start": 170.512,
+     "end": 170.613,
+     "conf": 1.0
+    },
+    {
+     "w": "demand.",
+     "start": 170.773,
+     "end": 171.597,
+     "conf": 1.0
+    }
+   ]
+  }
+ ],
+ "extras": [],
+ "notes": "CTC-aligned (wav2vec2) to the Demucs vocal stem; see align.py"
+}
